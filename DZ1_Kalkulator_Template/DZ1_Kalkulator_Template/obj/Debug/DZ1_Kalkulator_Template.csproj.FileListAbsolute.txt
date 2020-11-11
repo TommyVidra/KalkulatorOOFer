@@ -1,0 +1,7 @@
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\DZ1_Kalkulator_Template.csprojAssemblyReference.cache
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\bin\Debug\PrvaDomacaZadaca_Kalkulator_Students.dll
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\bin\Debug\PrvaDomacaZadaca_Kalkulator_Students.pdb
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\DZ1_Kalkulator_Template.csproj.CopyComplete
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\PrvaDomacaZadaca_Kalkulator_Students.dll
+E:\Projects\Fax\OO\Kalkulator\DZ1_Kalkulator_Template\DZ1_Kalkulator_Template\obj\Debug\PrvaDomacaZadaca_Kalkulator_Students.pdb
